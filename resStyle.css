@@ -1,0 +1,89 @@
+html { 
+	background: url(images/background.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#homeHeader { 
+	position: fixed; 
+	font-family: sans-serif; 
+	font-weight: lighter; 
+	letter-spacing: 3px; 
+	font-size: 60px; 
+	left: 0px; 
+	top: 0px; 
+	height: 100px; 
+	width: 100%; 
+	text-align: center; 
+	color: #FFFFFF; 
+	background-color: #2B2B2B;
+}
+#name { 
+	margin-top: 15px; 
+}
+#pictures { 
+	position: fixed; 
+	top: 150px; 
+	margin-left: 0px; 
+	height: 500px; 
+	width: 100%;
+}
+#mining { 
+	position: fixed; 
+	left: 50%; 
+	margin-left: -165px;
+}
+#navigator {
+	position: fixed;
+	top: 100px;
+	width: 100%;
+	font-family: sans-serif;
+
+}
+.navButtons {
+	position: fixed;
+	top: 100px;
+	width: 120px;
+	text-align: center;
+	border-right: solid 1px;
+	border-left: solid 1px;
+	color: #000000;
+	background-color: #DBDBDB;
+}
+.navB {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#homeTab {
+	position: fixed;
+	left: 50%;
+	margin-left: -360px;
+}
+#imdb {
+	position: fixed;
+	left: 50%;
+	margin-left: -240px;
+}
+#facebook {
+	position: fixed;
+	left: 50%;
+	margin-left: -120px;
+}
+#twitter {
+	position: fixed;
+	left: 50%;
+}
+#instagram {
+	position: fixed;
+	left: 50%;
+	margin-left: 120px;
+}
+#resume {
+	position: fixed;
+	left: 50%;
+	margin-left: 240px;
+	border-right: solid 2px;
+	color: #FFFFFF; 
+	background: #2B2B2B;
+}
