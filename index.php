@@ -55,7 +55,7 @@
 			<a href="https://twitter.com/travisbeagley" target="_blank"><div id="twitter" class="navButtons">
 				<p class="navB">TWITTER</p>
 			</div></a>
-			<a href="https://www.linkedin.com/profile/view?id=AAkAABezmlABmGDuVT39u47bBq7zmec6R7o9c6s&authType=NAME_SEARCH&authToken=ax1Q&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A397646416%2CauthType%3ANAME_SEARCH%2Cidx%3A2-1-4%2CtarId%3A1452388889365%2Ctas%3Atrav"><div id="contact" class="navButtons">
+			<a href="https://www.linkedin.com/profile/view?id=AAkAABezmlABmGDuVT39u47bBq7zmec6R7o9c6s&authType=NAME_SEARCH&authToken=ax1Q&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A397646416%2CauthType%3ANAME_SEARCH%2Cidx%3A2-1-4%2CtarId%3A1452388889365%2Ctas%3Atrav" target="_blank"><div id="contact" class="navButtons">
 				<p class="navB">LINKEDIN</p>
 			</div></a>
 			<a href="resume.html"><div id="resume" class="navButtons">
@@ -96,7 +96,7 @@
 			<a href="https://twitter.com/travisbeagley" target="_blank" class="noUnder"><div id="twitterFoot" class="footButtons">
 				<p class="footB">TWITTER</p>
 			</div></a>
-			<a href="https://www.linkedin.com/profile/view?id=AAkAABezmlABmGDuVT39u47bBq7zmec6R7o9c6s&authType=NAME_SEARCH&authToken=ax1Q&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A397646416%2CauthType%3ANAME_SEARCH%2Cidx%3A2-1-4%2CtarId%3A1452388889365%2Ctas%3Atrav" class="noUnder"><div id="contactFoot" class="footButtons">
+			<a href="https://www.linkedin.com/profile/view?id=AAkAABezmlABmGDuVT39u47bBq7zmec6R7o9c6s&authType=NAME_SEARCH&authToken=ax1Q&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A397646416%2CauthType%3ANAME_SEARCH%2Cidx%3A2-1-4%2CtarId%3A1452388889365%2Ctas%3Atrav" class="noUnder" target="_blank"><div id="contactFoot" class="footButtons">
 				<p class="footB">LINKEDIN</p>
 			</div></a>
 			<a href="resume.html" class="noUnder"><div id="resumeFoot" class="footButtons">
