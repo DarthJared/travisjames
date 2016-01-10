@@ -49,7 +49,7 @@
 			<a href="http://www.imdb.com/name/nm7236230/" target="_blank"><div id="imdb" class="navButtons">
 				<p class="navB">IMDB</p>
 			</div></a>
-			<a href="https://www.facebook.com/travis.beagley.1" target="_blank"><div id="facebook" class="navButtons">
+			<a href="https://www.facebook.com/profile.php?id=100010773305670&fref=ts" target="_blank"><div id="facebook" class="navButtons">
 				<p class="navB">FACEBOOK</p>
 			</div></a>
 			<a href="https://twitter.com/travisbeagley" target="_blank"><div id="twitter" class="navButtons">
@@ -90,7 +90,7 @@
 			<a href="http://www.imdb.com/name/nm7236230/" target="_blank" class="noUnder"><div id="imdbFoot" class="footButtons">
 				<p class="footB">IMDB</p>
 			</div></a>
-			<a href="https://www.facebook.com/travis.beagley.1" target="_blank" class="noUnder"><div id="facebookFoot" class="footButtons">
+			<a href="https://www.facebook.com/profile.php?id=100010773305670&fref=ts" target="_blank" class="noUnder"><div id="facebookFoot" class="footButtons">
 				<p class="footB">FACEBOOK</p>
 			</div></a>
 			<a href="https://twitter.com/travisbeagley" target="_blank" class="noUnder"><div id="twitterFoot" class="footButtons">
