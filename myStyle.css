@@ -124,15 +124,15 @@ html {
 }
 #resume {
 	left: 50%;
-	margin-left: 120px;
-	/*border-right: solid 1px;*/
+	margin-left: 240px;
 	/*background-image: url("images/tabLight.png");*/
 	background-size: 120px 30px;
 	background-repeat: no-repeat;
 }
-#contact {
+#contact {	
 	left: 50%;
-	margin-left: 240px;
+	margin-left: 120px;
+	/*border-right: solid 1px;*/
 	/*background-image: url("images/tabLight.png");*/
 	background-size: 120px 30px;
 	background-repeat: no-repeat;
