@@ -1,0 +1,163 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+#miningTop {
+	position: absolute;
+	/* clip: rect(100px, 900px, 500px, 100px);/*Auto adjust*/ 
+	top: -200px;
+	padding: 0px;
+	left: -100px;
+	padding-right: -100px;
+	/* width: 100%;/*auto adjust*/
+	/* opacity: 0.6; */
+}
+#headText {
+	position: absolute;
+	top: 10px;
+	font-size: 60px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #807B40;
+	width: 600px;
+	left: 50%;
+	margin-left: -300px;
+	text-align: center;
+}
+#leftNav {
+	position: absolute;
+	top: 240px;
+	color: #807B40;
+	left: 0px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 22px;
+}
+#homeNav {
+	position: absolute;
+}
+#imdbNav {
+	position: absolute;
+	top: 45px;
+}
+#faceNav {
+	position: absolute;
+	top: 90px;
+}
+#twitNav {
+	position: absolute;
+	top: 135px;
+}
+#linkedNav {
+	position: absolute;
+	top: 180px;
+}
+#resNav {
+	position: absolute;
+	top: 225px;
+}
+#photoNav {
+	position: absolute;
+	top: 270px;
+}
+.leftNavButton {
+	background-color: #F2EC8F;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	padding-left: 15px;
+	padding-right: 10px;
+	width: 135px;
+	/* border: solid 1px; */
+}
+.leftNavButton:hover{
+	background-color: #737044;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.leftNavButton:active{
+	background-color: #5C5936;
+}
+#setPic {
+	position: absolute;
+	right: 0px;
+	top: 445px;
+}
+#set {
+	right: 0px;
+}
+#bodyText {
+	position: absolute;
+	/* top: 535px; */
+	left: 170px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 20px;
+}
+#beardPic {
+	position: absolute;
+	/* top: 975px; */
+	left: 0px;
+}
+#leftText {
+	position: absolute;
+	top: 1075px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 20px;
+	/* left: 535px; */
+}
+a{
+	color: #807B40;
+}
+a:visited {
+	color: #807B40;
+}
+#bottomBar {
+	position: absolute;
+	left: 50%;
+	height: 150px;
+	background-color: #F2EC8F;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 18px;
+}
+#copyright {
+	position: absolute;
+	width: 400px;
+	left: 50%;
+	top: 20px;
+	margin-left: -200px;
+	text-align: center;
+}
+#imdbBot {
+	
+}
+#faceBot {
+	
+}
+#twitBot {
+	
+}
+#linkedBot {
+	
+}
+#resBot {
+	
+}
+#photoBot {
+	
+}
+.botLink {
+	position: absolute;
+	top: 70px;
+	text-align: center;
+	border-radius: 15px;
+	color: #000000;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.botLink:hover {
+	background-color: #737044;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.botLink:active{
+	background-color: #5C5936;
+}
