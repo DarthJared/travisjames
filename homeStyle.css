@@ -144,6 +144,9 @@ a:visited {
 #photoBot {
 	
 }
+#beard {
+	visibility: hidden;
+}
 .botLink {
 	position: absolute;
 	top: 70px;

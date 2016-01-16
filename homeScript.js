@@ -34,6 +34,7 @@ function resizeTop() {
 	// alert($("#bodyText").outerHeight());
 	var beardTop = $("#bodyText").offset().top + $("#bodyText").outerHeight() + 30;
 	$("#beardPic").css("top", beardTop + "px");
+	$("#beard").css("visibility", "visible");
 	
 	//var beardWidth = winWidth - 500 - 35 - 150;
 	$("#leftText").css("width", bodyWidth + "px");
