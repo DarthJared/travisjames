@@ -25,9 +25,10 @@ p {
   height: auto;
   color: rgba(255,255,255,.9);
 }
-  .parallax-container .section {
-    width: 90%;
-  }
+
+.parallax-container .section {
+  width: 90%;
+}
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
@@ -46,6 +47,8 @@ p {
 }
 
 .icon-block {
+  width: 80%;
+  margin-left: 10%;
   padding: 0 15px;
 }
 .icon-block .material-icons {
@@ -72,8 +75,8 @@ footer.page-footer {
 }
 
 .mainImage {
-  margin-top: 20px;
-  width: 50%;
+  margin-top: 60px;
+  width: 100%;
   height: 100%;
   /*border-radius: 5px;*/
   box-shadow: 10px 10px 10px #888888;
@@ -114,10 +117,6 @@ footer.page-footer {
   height: 110%;
 }
 
-.changeFont {
-  /*font-size: 20px;*/
-}
-
 .maroon {	
 	background-color: #5B1E1F;
 }
@@ -129,4 +128,92 @@ footer.page-footer {
 .wideImg {
 	width: 100%;
 	box-shadow: 10px 10px 10px #888888;
+}
+
+.quote {
+  padding-left: 40px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 20px;
+  line-height: 200%;
+}
+
+.quote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.1em;
+  vertical-align: -0.4em;
+}
+
+.quote:after {
+  color: #ccc;
+  content: close-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+.biggerFont {
+  font-size: 18px;  
+}
+
+.quote-cite {
+  padding-left: 40px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 20px;
+  text-align: right;  
+}
+
+.photoChoose {
+  color: #ffffff;
+  height: 50px;
+  font-size: 1 rem;
+}
+
+.headshotOpt {
+  padding-top: 3px;
+  background-color: #8A292C;
+  width: 50%;
+  text-align: center;
+  left: 0px;
+  margin: 0px;
+  height: 30px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.otherOpt {
+  padding-top: 3px;
+  background-color: #8A292C;
+  width: 50%;
+  text-align: center;
+  margin: 0px;
+  margin-left: 50%;
+  height: 30px;
+  margin-top: -30px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.otherOpt:hover, .headshotOpt:hover {
+  background-color: #421516;
+}
+
+.photoSelected {
+  background-color: #5B1E1F;
+}
+
+.boldCenter {
+  text-align: center;
+  font-weight: bold;
+}
+
+.noDec {
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.noDec:visited {
+  color: rgba(0, 0, 0, 0.87);
 }
